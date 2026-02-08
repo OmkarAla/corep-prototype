@@ -1,0 +1,11 @@
+CRR Article 36(1)(c):
+Deferred tax assets that rely on future profitability shall be deducted from CET1 capital.
+
+PRA Own Funds 2.2:
+Firms must apply deductions for DTAs dependent on future taxable profit.
+
+COREP C01.00 Instructions:
+Row 030 corresponds to deductions from CET1 including deferred tax assets.
+Row 010 corresponds to Common Equity Tier 1 capital.
+Row 020 corresponds to Additional Tier 1 capital.
+Row 040 corresponds to Tier 2 capital.
