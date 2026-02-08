@@ -106,7 +106,7 @@ This is a feasibility prototype, not a production-ready regulatory reporting sys
 pip install -r requirements.txt
 ```
 
-### 2. Get your own api key from Google AI Studio
+### 2. Get your own api key from [Google AI Studio](https://aistudio.google.com/app/api-keys)
 
 ### 3. Now, run the prototype in the main directory(corep-assisstant/) using:
 
