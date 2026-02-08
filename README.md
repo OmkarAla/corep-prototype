@@ -120,14 +120,15 @@ uvicorn app.main:app
 To test the api- we head over to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs), after running the prototype.
 
 The input:
-
+```bash
 {
   "question": "How should deferred tax assets be treated?",
   "scenario": "The bank has £10m CET1 capital and £5m deferred tax assets dependent on future profitability."
 }
-
+```
 The output:
 
+```bash
 {
   "retrieved_text": [
     "CRR Article 36(1)(c):\nDeferred tax assets that rely on future profitability shall be deducted from CET1 capital.",
@@ -206,3 +207,4 @@ The output:
     }
   ]
 }
+```
